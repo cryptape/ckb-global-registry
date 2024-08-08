@@ -1,0 +1,10 @@
+[package]
+name = "demo-linked-list-type"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ckb-std = "0.15.3"
+ckb-linked-list-tool = { path = "../../crates/ckb-linked-list-tool", default-features = false }
+demo-linked-list-lib = { path = "../../crates/demo-linked-list-lib", default-features = false }
+ckb-hash = { version = "0.112.1", default-features = false, features = ["ckb-contract"] }

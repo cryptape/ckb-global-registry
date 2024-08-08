@@ -1,0 +1,9 @@
+// Ref: ../src/types.rs
+
+vector Bytes <byte>;
+
+table DemoData {
+    demo: Bytes,
+    curr: Bytes,
+    next: Bytes,
+}
