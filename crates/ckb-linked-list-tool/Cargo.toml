@@ -1,12 +1,12 @@
 [package]
 name = "ckb-linked-list-tool"
 version = "0.1.0"
-authors = ["Boyu Yang <yangby@cryptape.com>"]
+authors = ["Cryptape Technologies <contact@cryptape.com>"]
 edition = "2021"
 license = "MIT"
 description = "A tool to create a linked list between CKB cells."
-homepage = "https://github.com/yangby-cryptape/ckb-global-registry"
-repository = "https://github.com/yangby-cryptape/ckb-global-registry"
+homepage = "https://github.com/cryptape/ckb-global-registry"
+repository = "https://github.com/cryptape/ckb-global-registry"
 
 [dependencies]
 ckb-std = "0.15.3"

@@ -1,12 +1,12 @@
 # CKB Global Registry
 
 [![License]](#license)
-[![GitHub Actions]](https://github.com/yangby-cryptape/ckb-global-registry/actions)
+[![GitHub Actions]](https://github.com/cryptape/ckb-global-registry/actions)
 
 Libraries to build global registry on [CKB].
 
 [License]: https://img.shields.io/badge/License-MIT-blue.svg
-[GitHub Actions]: https://github.com/yangby-cryptape/ckb-global-registry/workflows/CI/badge.svg
+[GitHub Actions]: https://github.com/cryptape/ckb-global-registry/workflows/CI/badge.svg
 
 ## Description
 
